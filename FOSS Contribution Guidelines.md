@@ -1,6 +1,10 @@
-**Free and Open Source Software Contribution Guidelines**
+# Free and Open Source Software Contribution Guidelines
+
+<br /> 
 
 <table><tbody><tr><td><p><strong>Summary</strong></p></td><td><p>These guidelines establish the minimum requirements an controls to be met by contributors to Free and Open Source Software ("FOSS") communities. The Company supports certain activities associated with the contribution and publication of FOSS, when doing so is a benefit to the Company and does not present unacceptable risk.</p></td></tr><tr><td><p><strong>Scope</strong></p></td><td><p>These guidelines apply to employees that wish to contribute to FOSS projects.</p></td></tr><tr><td><p><strong>Target Audience</strong></p></td><td><p>FOSS contributions range from fiat currency to technical currency. Examples include monetary donations or membership fees in return for an element of influence and employment of community members, coding/maintenance, documentation, testing, thought leadership, and management of approved FOSS efforts.</p></td></tr></tbody></table>
+
+<br /> 
 
 **Table of Contents**
 
@@ -38,11 +42,13 @@
 
 6 [Appendix A - glossary](#appendix)
 
-<a name="overview"></a> 
+<br /> 
+
+<a id="overview"></a> 
 Overview 
 ========
 
-<a name="objective"></a>
+<a id="objective"></a>
 Objective
 ---------
 
@@ -50,11 +56,13 @@ The Company supports certain activities associated with the contribution and pub
 
 These guidelines establish the minimum activities, approvals, restrictions, and evidence of compliance to be covered by the associated governance processes.
 
-<a name="governance"></a>
+<br /> 
+
+<a id="governance"></a>
 Governance
 ==========
 
-<a name="ospo"></a>
+<a id="ospo"></a>
 Open Source Program Office (OSPO)
 ---------------------------------
 
@@ -62,7 +70,7 @@ The procedures and governance processes described in these guidelines are overse
 
 The Open Source Program Office (OSPO) is responsible for establishing, evolving, and executing Free and Open Source Software (FOSS) contribution strategy and governance at the Company under the direction of the guidelines owner.
 
-<a name="fosscontributionrisk"></a>
+<a id="fosscontributionrisk"></a>
 FOSS Contribution Risk
 ----------------------
 
@@ -88,25 +96,27 @@ In addition, there are several consequential risks which must be considered that
     
 3.  **Non-Compliance with relevant Company Polices** - These are discussed in [Specific Alignment with Relevant Regulations](#regulationalignment) and include regulatory commitments such as Export and Trade Controls, and Cross Border Data Flows.
 
-<a name="standardrequirements"></a>
+<br /> 
+
+<a id="standardrequirements"></a>
 Standard Requirements
 =====================
 
 The Company supports contribution and publication of Free and Open Source Software (FOSS) within the limits of these guidelines.
 
-<a name="terminology"></a>
+<a id="terminology"></a>
 Terminology
 -----------
 
 FOSS terms can conflict with established definitions, for example: _Initiative_, _Program_, and _Project_ are well established Program and Project Management terms. For clarity, terms used in these guidelines shall refer to FOSS.
 
-<a name="taxonomy"></a>
+<a id="taxonomy"></a>
 Taxonomy - Open Source Contribution
 -----------------------------------
 
 The Company has established a taxonomy to be used in conjunction with these guidelines and associated procedures.
 
-<a name="fossprojectcategories"></a>
+<a id="fossprojectcategories"></a>
 ### FOSS Project Categories
 
 Contributions made to FOSS projects by Company employees must fall into one of four categories below and meet the corresponding requirements for the category.
@@ -120,7 +130,7 @@ Contributions made to FOSS projects by Company employees must fall into one of f
 
 *Table 1: Project Categories*
 
-<a name="companyinfrastructure"></a>
+<a id="companyinfrastructure"></a>
 Company Infrastructure
 ----------------------
 
@@ -128,7 +138,7 @@ Company Infrastructure
 2.  Personal FOSS contributions must be performed outside the Company's network using non-Company managed hardware.
 3.  External infrastructure used to host Company Moderated projects must be approved by the OSPO.
 
-<a name="ospostandardtools"></a> OSPO Standard Tools
+<a id="ospostandardtools"></a> OSPO Standard Tools
 -------------------
 
 1.  Preventative and detective internal controls must be implemented to address the risks described in [FOSS Contribution Risk](#fosscontributionrisk).
@@ -160,7 +170,7 @@ These guidelines do not introduce or change established requirements for the int
 
 Employees must be made aware that their FOSS contribution activities must be in compliance with company conduct requirements which includes compliance with local laws and regulations at all times.
 
-<a name="regulationalignment"></a> 
+<a id="regulationalignment"></a> 
 Specific Alignment with Relevant Regulations
 --------------------------------------------
 
@@ -172,7 +182,7 @@ Identity and Access Management requirements do not apply to externally hosted to
 
 The Company is obligated to retain certain records for legal, regulatory, or approved business reasons. This does not apply to FOSS contribution activities, and does apply to OSPO governance activities.
 
-<a name="technologyexportimportregulations"></a> 
+<a id="technologyexportimportregulations"></a> 
 ### Technology Export/Import Regulations
 
 Open source development is a global activity that makes software publicly available across national boundaries. Some countries may require FOSS project contributions to satisfy their local export control regulations. This is described in more detail in [Technology Export Regulations Compliance](#technologyexportregulationscompliance).
@@ -215,7 +225,9 @@ A third-party relationship refers to the provision of services or products or ot
 1.  Company staff contributing to open-source communities is distinguishable from third-party performance and expectations therefore out of scope.
 2.  Company Moderated projects that rely on externally hosted repositories and tools to support contributions are in scope.
 
-<a name="governanceactivities"></a>
+<br /> 
+
+<a id="governanceactivities"></a>
 Governance Activities
 ---------------------
 
@@ -295,7 +307,7 @@ The open source engagement or project must be successfully transitioned or retir
 1.  Project access requests must be recertified at least annually.
 2.  The project's open source license must be validated regularly to identify, record, and re-assess the impact license changes.
 
-<a name="transitionretire"></a> 
+<a id="transitionretire"></a> 
 #### Transition/Retire
 
 FOSS contribution projects and any associated access requests configured in the OSPO-approved tooling must be decommissioned within 3 months of that project being retired or archived from its public repository or the Company's official product inventory.
@@ -312,13 +324,13 @@ Company employees may contribute to FOSS projects in a personal capacity under t
 6.  Contributors may not represent themselves as Company employees.
 7.  Contributions must not be made from Company-owned hardware or infrastructure.
 
-<a name="technologyexportregulationscompliance"></a> 
+<a id="technologyexportregulationscompliance"></a> 
 ### Technology Export Regulations Compliance
 
 1.  Company-Moderated, Company Interest projects which provide or perform non-standard [\[1\]](#footnote-1) cryptography must be reviewed prior to OSPO approval (see [Technology Export/Import Regulations](#technologyexportimportregulations)).
 2.  Company staff participating in FOSS contribution activities must comply with local export regulations.
 
-<a name="contributionactivities"></a>
+<a id="contributionactivities"></a>
 Contribution Activities
 -----------------------
 
@@ -329,7 +341,7 @@ Contribution Activities
 ### Company Moderated Projects
 
 1.  A FOSS Project team must be established consisting of the roles defined in [Roles & Responsibilities](#rolesandresponsiilities).
-2.  The FOSS Project Team must define and document OSPO approved instructions describing how to report security vulnerabilities in the project[\[2\]](#footnote-2).
+2.  The FOSS Project Team must define and document OSPO approved instructions describing how to report security vulnerabilities in the project [\[2\]](#footnote-2).
 3.  Projects which are no longer moderated by a Company employee must be transitioned to Company Interest or Retired following the process described in Section [Transition/Retire](#transitionretire).
 
 ### Company Interest (Major) Projects
@@ -341,13 +353,15 @@ Contribution Activities
 
 Activities must follow contribution processes established by the project community.
 
-<a name="training"></a>
+<a id="training"></a>
 Training
 ========
 
 Company staff participating in FOSS contribution activities as defined in these guidelines are required to complete an annual training class to demonstrate knowledge of these guidelines and associated governance consistent with their role.
 
-<a name="rolesandresponsiilities"></a> 
+<br /> 
+
+<a id="rolesandresponsiilities"></a> 
 Roles & Responsibilities
 ========================
 
@@ -358,24 +372,22 @@ Roles and responsibilities for these guidelines include:
 | Open Source Program Office (OSPO) <br /> <br /> (Chair/Members) | Company Moderated <br /> <br /> Company Interest (Major) <br /> <br /> Company Interest (Minor) | Committee responsible for maintaining the Open Source Contribution guidelines. |
 | Line Manager | Company Interest (Minor) | Approver of Company Interest Minor FOSS contribution requests via OSPO tooling. |
 | FOSS Project Moderator or Maintainer | Company Moderated <br /> <br /> Company Interest (Major) | Establishing and ensuring the community adheres to:</p><ul><li>The OSPO approved community code of conduct, and</li><li>Formal contribution processes which can include defining other community activities and pull request approvals. |
-| FOSS Sponsor | --- | --- |
-| --- | --- | --- |
-
-</tr><tr><td><p></p></td><td><p>/p></td><td><p></p></td></tr><tr><td rowspan="2"><p></p></td><td><p>Company-Moderated</p></td><td rowspan="2"><p></li></ul></td></tr><tr><td><p>Company Interest (Major)</p></td></tr><tr><td><p></p></td><td><p>Company Moderated</p><p>Company Interest (Major)</p></td><td><p>Responsible for sponsoring the project including a documented business case, financial commitment and budget approval, intellectual property and competing interest review, and determining a need for trademark or patent applications.</p></td></tr><tr><td rowspan="2"><p>FOSS Contributor</p></td><td><p>Company Moderated</p></td><td rowspan="2"><p>A FOSS community term which refers to any person who contributes to a FOSS project in any capacity. Under the terms of these guidelines, it is specific to Company employees contributing to FOSS projects.</p></td></tr><tr><td><p>Company Interest (Major)</p><p>Company Interest (Minor)</p></td></tr><tr><td><p>FOSS Project Administrator</p></td><td><p>Company Moderated</p><p>Company Interest (Major)</p></td><td><p>Ensuring the control requirements of these guidelines are met and evidenced for their FOSS project(s)</p></td></tr><tr><td><p>FOSS Foundation Administrator</p></td><td><p>Company Moderated</p><p>Company Interest (Major)</p></td><td><p>Ensuring the control requirements of these guidelines are met and evidenced for the Company's membership of FOSS Foundations.</p></td></tr></tbody></table>
-
-
-
-<table><tbody><tr><td><p><strong>Role</strong></p></td><td><p><strong>Project Category</strong></p></td><td><p><strong>Responsibility</strong></p></td></tr><tr><td><p>Open Source Program Office (OSPO)</p><p>(Chair/Members)</p></td><td><p>Company Moderated</p><p>Company Interest (Major)</p><p>Company Interest (Minor)</p></td><td><p>Committee responsible for maintaining the Open Source Contribution guidelines.</p></td></tr><tr><td><p>Line Manager</p></td><td><p>Company Interest (Minor)</p></td><td><p>Approver of Company Interest Minor FOSS contribution requests via OSPO tooling.</p></td></tr><tr><td rowspan="2"><p>FOSS Project Moderator or Maintainer</p></td><td><p>Company-Moderated</p></td><td rowspan="2"><p>Establishing and ensuring the community adheres to:</p><ul><li>The OSPO approved community code of conduct, and</li><li>Formal contribution processes which can include defining other community activities and pull request approvals.</li></ul></td></tr><tr><td><p>Company Interest (Major)</p></td></tr><tr><td><p>FOSS Sponsor</p></td><td><p>Company Moderated</p><p>Company Interest (Major)</p></td><td><p>Responsible for sponsoring the project including a documented business case, financial commitment and budget approval, intellectual property and competing interest review, and determining a need for trademark or patent applications.</p></td></tr><tr><td rowspan="2"><p>FOSS Contributor</p></td><td><p>Company Moderated</p></td><td rowspan="2"><p>A FOSS community term which refers to any person who contributes to a FOSS project in any capacity. Under the terms of these guidelines, it is specific to Company employees contributing to FOSS projects.</p></td></tr><tr><td><p>Company Interest (Major)</p><p>Company Interest (Minor)</p></td></tr><tr><td><p>FOSS Project Administrator</p></td><td><p>Company Moderated</p><p>Company Interest (Major)</p></td><td><p>Ensuring the control requirements of these guidelines are met and evidenced for their FOSS project(s)</p></td></tr><tr><td><p>FOSS Foundation Administrator</p></td><td><p>Company Moderated</p><p>Company Interest (Major)</p></td><td><p>Ensuring the control requirements of these guidelines are met and evidenced for the Company's membership of FOSS Foundations.</p></td></tr></tbody></table>
+| FOSS Sponsor | Company Moderated <br /> <br /> Company Interest (Major) | Responsible for sponsoring the project including a documented business case, financial commitment and budget approval, intellectual property and competing interest review, and determining a need for trademark or patent applications. |
+| FOSS Contributor| Company Moderated <br /> <br /> Company Interest (Major) <br /> <br /> Company Interest (Minor) | A FOSS community term which refers to any person who contributes to a FOSS project in any capacity. Under the terms of these guidelines, it is specific to Company employees contributing to FOSS projects. |
+| FOSS Project Administrator | Company Moderated <br /> <br /> Company Interest (Major) | Ensuring the control requirements of these guidelines are met and evidenced for their FOSS project(s) |
+| FOSS Foundation Administrator | Company Moderated <br /> <br /> Company Interest (Major) | Ensuring the control requirements of these guidelines are met and evidenced for the Company's membership of FOSS Foundations. |
 
 *Table 2: Roles*
 
-<a name="legalsupport"></a>
+<a id="legalsupport"></a>
 Legal Support
 -------------
 
 Free and Open-Source licenses are legal agreements between the author(s) and consumers. The OSPO maintains an inventory of FOSS licenses approved for contribution activity by Company contributors. The legal department's role is advisory to the OSPO. The OSPO engages legal as needed when adding a new license to the inventory, when changes occur to an existing license, when project contributors must first agree to a Contributor License Agreement, Developer Certificate of Origin, or similar agreement. Legal review activities and disposition will be captured and timestamped by the OSPO.
 
-<a name="appendix"></a>
+<br /> 
+
+<a id="appendix"></a>
 Appendix A - Glossary 
 =====================
 
@@ -391,8 +403,14 @@ Appendix A - Glossary
 
 *Table 3: Glossary*
 
-<a name="footnote-1"></a> 
-1.  Any implementation of cryptography involving the incorporation or use of proprietary or unpublished cryptographic functionality, including encryption algorithms or protocols that have not been adopted or approved by a duly recognized international standards body (e.g., IEEE, IETF, ISO, ITU, ETSI, 3GPP, TIA, and GSMA) and have not otherwise been published.
+<br />
 
-<a name="footnote-2"></a>  
-2.  Commonly referred to in open source communities as a _Security policy_ published with the project.
+Footnotes
+=========
+
+
+<a id="footnote-1"></a> 
+> \[1\]  Any implementation of cryptography involving the incorporation or use of proprietary or unpublished cryptographic functionality, including encryption algorithms or protocols that have not been adopted or approved by a duly recognized international standards body (e.g., IEEE, IETF, ISO, ITU, ETSI, 3GPP, TIA, and GSMA) and have not otherwise been published.
+
+<a id="footnote-2"></a>  
+> \[2\]  Commonly referred to in open source communities as a _Security policy_ published with the project.
