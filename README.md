@@ -44,7 +44,7 @@ We are committed to making open source an enjoyable and respectful experience fo
 
 ## License
 
-This project is distributed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0). See <a href="./LICENSE.md"><code>LICENSE.md</code></a> for more information.
+This project is distributed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0). See <a href="./LICENSE"><code>LICENSE</code></a> for more information.
 
 ## Contact
 
