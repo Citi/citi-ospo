@@ -15,10 +15,7 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/github/contributors/Citi/citi-ospo" />
-    <img src="https://img.shields.io/github/stars/Citi/citi-ospo" />
-    <img src="https://img.shields.io/github/license/citi/citi-ospo?label=license" />
-
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/citi/citi-ospo?label=license&colorA=0f1632&colorB=255be3" /></a>
   </p>
 </div>
 
@@ -26,9 +23,7 @@
 
 ## About The Project
 
-This repository is a collection of guidelines and resources from Citi's Open Source Program Office (OSPO). The focus is on enabling developers to contribute to open source projects. All resources are provided as a reference only.
-
-<br/>
+This repository is a collection of guidelines and resources from Citi's Open Source Program Office (OSPO). The focus is on enabling developers to contribute to open source software. All resources are provided as a reference only.
 
 ## Contributing
 
@@ -43,19 +38,13 @@ We welcome you to:
 
 Please review our [contribution guidelines](https://github.com/Citi/.github/blob/main/CONTRIBUTING.md) to get started 👍
 
-<br />
-
 ## Code of Conduct
 
 We are committed to making open source an enjoyable and respectful experience for our community. See <a href="https://github.com/Citi/.github/blob/main/CODE_OF_CONDUCT.md"><code>CODE_OF_CONDUCT</code></a> for more information.
 
-<br />
-
 ## License
 
-This project is distributed under the Apache-2.0 license. See <a href="./LICENSE.md"><code>LICENSE.md</code></a> for more information.
-
-<br />
+This project is distributed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0). See <a href="./LICENSE.md"><code>LICENSE.md</code></a> for more information.
 
 ## Contact
 
